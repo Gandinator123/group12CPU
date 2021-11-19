@@ -5,4 +5,6 @@ logic b;
 
 logic c;
 
+ligic e;
+
 endmodule
