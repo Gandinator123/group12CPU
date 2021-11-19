@@ -3,6 +3,6 @@ logic a;
 
 logic b;
 
-logic c;
+logic cc;
 
 endmodule
